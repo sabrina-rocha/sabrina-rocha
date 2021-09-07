@@ -16,8 +16,9 @@
   <a href="sabrinarocha0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="mailto:contatosbrochaq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/884842833008267265/884842833008267268" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href="https://github.com/sabrina-rocha/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-   <a href="https://sabrinarocha.netlify.app/" target="_blank"><img src=" https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
-   
+   <a href="https://github.com/sabrina-rocha/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
+  ##
   
+  ![Snake animation](https://github.com/sabrina-rocha/sabrina-rocha/blob/output/github-contribution-grid-snake.svg)
+ 
  </div>
