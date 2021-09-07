@@ -19,6 +19,6 @@
    <a href="https://github.com/sabrina-rocha/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
   ##
   
-  ![Snake animation](https://github.com/sabrina-rocha/sabrina-rocha/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/sabrina-rocha/sabrina-rocha/blob/main/.github/workflows/cobrinha.yml)
  
  </div>
