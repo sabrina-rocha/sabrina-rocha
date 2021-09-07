@@ -1,4 +1,4 @@
-## Hello Word! Eu sou a Sabrina Rocha ☺ 
+## Hello World! Eu sou a Sabrina Rocha ☺ 
  <div>
   <a href="https://github.com/sabrina-rocha">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=sabrina-rocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
