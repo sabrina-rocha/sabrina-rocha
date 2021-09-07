@@ -8,7 +8,7 @@
   <img align="center" alt="Sabrina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sabrina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sabrina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Sabrina-friends" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/friends.gif">
+  <img align="right" alt="Sabrina-friends" height="100" width="100" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/friends.gif">
 </div>
   
   ##
