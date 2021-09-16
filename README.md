@@ -4,7 +4,7 @@
 
 - 👩‍🎓 Mestranda em Informática no IComp/UFAM
 - 🎓 Formada em Engenharia de Software no ICET/UFAM
-- 👩🏻‍💻 Desenvolvedora Front-end - Freelancer 
+- 👩🏻‍💻 Desenvolvedora Front-End - Freelancer 
 - ❤️Apoio a diversidade e inclusão na área de tecnologia e desenvolvimento
 - 📧 Onde me encontrar: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochasabrina//)](https://www.linkedin.com/in/rochasabrina/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarocha.es@gmail.com)](mailto:sabrinarocha.es@gmail.com) <a href="https://t.me/sabrinarocha0" target="_blank"><img  height="20" width="65" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
