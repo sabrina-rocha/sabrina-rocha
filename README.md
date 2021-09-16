@@ -1,14 +1,12 @@
 ## Hello World! ☺ 
 
-<img align="right" width="300px" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/gatinho.gif">
+<img align="right" height="200" width="300" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/gatinho.gif">
 
 - 👩‍🎓 Mestranda em Informática no IComp/UFAM
 - 🎓 Formada em Engenharia de Software no ICET/UFAM
 - 👩🏻‍💻 Desenvolvedora Front-end - Freelancer 
 - ❤️Apoio a diversidade e inclusão na área de tecnologia e desenvolvimento
-- 📧 Onde me encontrar: <a href="sabrinarocha0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-- 
-- </a> [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochasabrina//)](https://www.linkedin.com/in/rochasabrina/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarocha.es@gmail.com)](mailto:sabrinarocha.es@gmail.com)
+- 📧 Onde me encontrar: <a href="sabrinarocha0" target="_blank"><img height="20" width="20" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochasabrina//)](https://www.linkedin.com/in/rochasabrina/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarocha.es@gmail.com)](mailto:sabrinarocha.es@gmail.com)
   
   
  <div>
