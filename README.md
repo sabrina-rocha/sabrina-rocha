@@ -1,14 +1,14 @@
 ## Hello World! ☺ 
 
-<img align="right" width="400px" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/gatinho.gif">
+<img align="right" width="300px" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/gatinho.gif">
 
 - 👩‍🎓 Mestranda em Informática no IComp/UFAM
 - 🎓 Formada em Engenharia de Software no ICET/UFAM
 - 👩🏻‍💻 Desenvolvedora Front-end - Freelancer 
 - ❤️Apoio a diversidade e inclusão na área de tecnologia e desenvolvimento
-- 📧 Onde me encontrar: <a href="sabrinarocha0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochasabrina//)](https://www.linkedin.com/in/rochasabrina/)
-  <a href="mailto:contatosbrochaq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+- 📧 Onde me encontrar: <a href="sabrinarocha0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+- 
+- </a> [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochasabrina//)](https://www.linkedin.com/in/rochasabrina/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarocha.es@gmail.com)](mailto:sabrinarocha.es@gmail.com)
   
   
  <div>
@@ -32,7 +32,7 @@
   <img align="center" alt="Sabrina-PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Sabrina-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img align="right" alt="Sabrina-friends" height="100" width="100" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/friends.gif">
-</div>
+</div
   
   ##
  <div> 
