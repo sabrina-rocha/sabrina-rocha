@@ -1,9 +1,26 @@
-## Hello World! Eu sou a Sabrina Rocha ☺ 
+## Hello World! ☺ 
+
+<img align="right" width="400px" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/gatinho.gif">
+
+- 👩‍🎓 Mestranda em Informática no IComp/UFAM
+- 🎓 Formada em Engenharia de Software no ICET/UFAM
+- 👩🏻‍💻 Desenvolvedora Front-end - Freelancer 
+- ❤️Apoio a diversidade e inclusão na área de tecnologia e desenvolvimento
+- 📧 Onde me encontrar: <a href="sabrinarocha0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochasabrina//)](https://www.linkedin.com/in/rochasabrina/)
+  <a href="mailto:contatosbrochaq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  
+  
  <div>
   <a href="https://github.com/sabrina-rocha">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=sabrina-rocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-rocha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+ 
+
+
+ 
  
  ## 
  
