@@ -1,6 +1,6 @@
 ## Hello World! ☺ 
 
-<img align="right" height="200" width="400" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/gatinho.gif">
+<img align="right" height="100" width="200" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/gatinho.gif">
 
 - 👩‍🎓 Mestranda em Informática no IComp/UFAM
 - 🎓 Formada em Engenharia de Software no ICET/UFAM
