@@ -1,5 +1,3 @@
-## Hello World! ☺ 
-
 <img align="right" height="100" width="200" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/gatinho.gif">
 
 - 👩‍🎓 Mestranda em Informática no IComp/UFAM
@@ -15,7 +13,7 @@
  <div>
   <a href="https://github.com/sabrina-rocha">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=sabrina-rocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-rocha&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-rocha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 # Tools and GitHub Stats
