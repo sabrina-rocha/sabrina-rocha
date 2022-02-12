@@ -29,11 +29,6 @@
   
 </div>
  
-   <div align="center">
-    <h3> Total de visitas ao perfil </h3>
-    <img src="https://profile-counter.glitch.me/sabrina-rocha/count.svg"
-  </div>
- 
   #
   
   ![Snake animation](https://github.com/sabrina-rocha/sabrina-rocha/blob/output/github-contribution-grid-snake.svg)
