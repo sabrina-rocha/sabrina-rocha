@@ -1,6 +1,6 @@
 <img align="right" height="100" width="200" src="https://github.com/sabrina-rocha/sabrina-rocha/blob/main/gatinho.gif">
-
-- 👩‍🎓 Mestra em Informática pela Universidade Federal do Amazonas
+- 👩‍🎓 Doutoranda em Engenharia de Software na Universidade Federal do Rio de Janeiro
+- 🎓 Mestra em Informática pela Universidade Federal do Amazonas
 - 🎓 Formada em Engenharia de Software Universidade Federal do Amazonas
 - ❤️Apoio a diversidade e inclusão na área de tecnologia e desenvolvimento
 - 📧 Onde me encontrar: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochasabrina//)](https://www.linkedin.com/in/rochasabrina/)
